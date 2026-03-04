@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyP6SO2g1WJ6cn+zO3mlNk1N",
+      "authorship_tag": "ABX9TyNQA6onCw2bVWmTgm3Cn8uV",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -23,14 +23,14 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/Du-nara/ME421-Mechanical-Systems-Lab-A3/blob/main/Heat%20Transfer/E_20_289_Heat_transfer.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/Du-nara/ME421-Mechanical-Systems-Lab-A3/blob/main/Heat%20Transfer\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "mjWo2G4Ixkyt"
+        "id": "ybUU_CW_RGnk"
       },
       "outputs": [],
       "source": []
